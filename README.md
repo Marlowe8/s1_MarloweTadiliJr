@@ -32,6 +32,7 @@ int main() {
 		else {
 			system("cls");
 			cout << "ERROR";
+			break;
 		}
 	}
 	result = total / 2;
